@@ -1,5 +1,5 @@
 # APS-VSS
-This repository includes Accelerated Pattern Search with Variable Solution Size for Simultaneous Instance Selection and Generation, a preprocessing phase of classification.
+This repository includes Accelerated Pattern Search with Variable Solution Size for Simultaneous Instance Selection and Generation, a preprocessing phase for doing classification.
 
 
 Associated work: Accelerated Pattern Search with Variable Solution Size for Simultaneous Instance Selection and Generation Authors: H.L Le, F. Neri, D. Landa-Silva, I. Triguero, Submitted to GECCO2022. 
